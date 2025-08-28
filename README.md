@@ -1,5 +1,5 @@
 ☀️ Weather Prediction with Machine Learning
-📝 What is This All About?
+📝 What's This All About?
 Hey there! This project is a machine learning notebook focused on predicting weather in Australia. The goal was to take a dataset and see which machine learning algorithms could do the best job of predicting future weather. We've explored a bunch of different models like Logistic Regression, SVM, KNN, and Decision Trees, and then compared their performance using various metrics to find the most accurate one!
 
 🚀 What Can It Do?
